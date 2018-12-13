@@ -1,3 +1,5 @@
+'use strict';
+
 var Namespace = (function () {
     var private;
 

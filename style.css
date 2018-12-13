@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: none
+}
+
+body {
+    background-color: #FCCE4E;
+    color: black;
+    font-size: 24px;
+}
+
+header {
+    color: #474FAE;
+    width: 100%;
+    margin:
+    text-align: center;
+    font-size:2em;
+}
